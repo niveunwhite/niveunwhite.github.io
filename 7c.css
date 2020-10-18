@@ -1,0 +1,16 @@
+p{
+    color: red; 
+}
+
+img{
+    padding: 39px;
+    border: 2px solid red; 
+}
+
+#pic {
+    position: absolute; left: 200px; top: 100px; 
+}
+
+h1 {
+    font-family:  'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
